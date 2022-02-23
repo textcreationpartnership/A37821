@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Lords &amp; Commons assembled in Parliament unto His Majesty (with reasons moving them to advise His Majesty) to decline his intended journey into Ireland sent to Yorke by the Earle of Stamford, Sir Iohn Culpepper, knight, Chancellour of the Exchequer, and Anthony Hungerford, esquire, who presented the same to His Majesty at York on Monday last, being the 18 day of April, 1642.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37821</idno>
+            <idno type="STC">Wing E1586</idno>
+            <idno type="STC">ESTC R30035</idno>
+            <idno type="EEBO-CITATION">11237018</idno>
+            <idno type="OCLC">ocm 11237018</idno>
+            <idno type="VID">47016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:99)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Lords &amp; Commons assembled in Parliament unto His Majesty (with reasons moving them to advise His Majesty) to decline his intended journey into Ireland sent to Yorke by the Earle of Stamford, Sir Iohn Culpepper, knight, Chancellour of the Exchequer, and Anthony Hungerford, esquire, who presented the same to His Majesty at York on Monday last, being the 18 day of April, 1642.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.N. for John Franck,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"And ordered to be printed and published by the Commons of Parliament. Die Veneris 22 of April. H. Elsyng, Cler. Parl. D. Com."</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47016:1"/>
+            <pb facs="tcp:47016:1"/>
+            <p>THE HUMBLE PETITION Of the Lords &amp; Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament unto his Majeſty (with the Reaſons moving them, to adviſe his Majeſty) to decline his intended Journey into <hi>Ireland:</hi>
+            </p>
+            <p>Sent to <hi>Yorke</hi> by the Earle of <hi>Stamford,</hi> Sir <hi>Iohn Culpepper</hi> Knight, Chancellour of the Exchequer, and <hi>Anthony Hun<g ref="char:EOLhyphen"/>gerford</hi> Eſquire.</p>
+            <p>Who preſented the ſame to his Majeſty at <hi>Yorke,</hi> on Monday laſt, being the 18 day of <hi>April,</hi> 1642.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>And ordered to be printed and publiſhed by the Commons Houſe of Parliament.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Die Veneris</hi> 22 <hi>of April.</hi>
+                        </date>
+                     </dateline> 
+                     <signed>H. Elſyng Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed by <hi>A.N.</hi> for <hi>John Franck,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:47016:2"/>
+            <pb facs="tcp:47016:2"/>
+            <opener>
+               <salute>May it pleaſe your Majeſtie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſties moſt loyall, and faith<g ref="char:EOLhyphen"/>full Subjects, the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament have duly con<g ref="char:EOLhyphen"/>ſidered the Meſſage received from your Majeſty, concerning your pur<g ref="char:EOLhyphen"/>poſe of going into <hi>Ireland</hi> in your own perſon to proſecute the warre there with the bodies of your <hi>Engliſh</hi> Subjects levied, tranſported, and mayntained at their charge, which you are plea<g ref="char:EOLhyphen"/>ſed to propound to us, not as a matter wherein your Majeſty deſires the advice of your Parliament, but as already firmely reſolved on, and forthwith to be put in execution, by granting out Commiſ<g ref="char:EOLhyphen"/>ſions for the levying of two thouſand foot, and two hundred Horſe for a Guard for your per<g ref="char:EOLhyphen"/>ſon when you ſhall come into that Kingdome, wherein we cannot chuſe but withall reverence and humility to your Majeſty, obſerve that you have declined your great Councell the Parliament, and varied from the uſuall courſe of your Royall Prede<g ref="char:EOLhyphen"/>ceſſors, that a buſineſſe of ſo great importance con<g ref="char:EOLhyphen"/>cerning the peace and ſafety of all your Subjects, and wherein they have a ſpeciall intereſt by your Majeſties promiſe, and by thoſe great ſums which
+<pb n="2" facs="tcp:47016:3"/>they have disburſed, and for which they ſtand in<g ref="char:EOLhyphen"/>gaged ſhould be concluded and undertaken without their advice, whereupon we hold it our duty to de<g ref="char:EOLhyphen"/>clare, that if at this time your Majeſty ſhall goe into <hi>Ireland,</hi> you will very much endanger the ſafety of your Royall Perſon and Kingdoms, and of all other States profeſſing the Proteſtant Religion in Chri<g ref="char:EOLhyphen"/>ſtendome, and make way to that cruell, and bloudy Deſigne of the Papiſts every where to root out and deſtroy the Reformed Religion as the <hi>Iriſh</hi> Papiſts have in a great part already effected in that King<g ref="char:EOLhyphen"/>dome and in all likelyhood would quickly be at<g ref="char:EOLhyphen"/>tempted in other places, if the conſideration of the ſtrength and union of the two Nations of <hi>England</hi> and <hi>Scotland,</hi> did not much hinder, and diſcourage the execution of any ſuch deſigne, and that we may manifeſt to your Majeſtie, the danger and miſery, which ſuch a journey and enterprize would procure we preſent to your Majeſty the Reaſons of this our humble opinion, and advice.</p>
+            <p n="1">1 YOur Royall perſon will be ſubject not one<g ref="char:EOLhyphen"/>ly to the caſualty of warre, but to ſecret pra<g ref="char:EOLhyphen"/>ctiſes, and conſpiracies eſpecially your Majeſty continuing your profeſsion to mayntaine the Pro<g ref="char:EOLhyphen"/>teſtant Religion in that Kingdome which the Pa<g ref="char:EOLhyphen"/>piſts are generally bound by their vow to extirpate.</p>
+            <p n="2">2 It will exceedingly encourage the Rebels who doe generally profeſſe, and declare that your Ma<g ref="char:EOLhyphen"/>jeſty doth favour and allow their proceedings, and this inſurrection was undertaken by the warrant of your Commiſsion, and it will make good their ex<g ref="char:EOLhyphen"/>pectation of great advantage by your Majeſties pre<g ref="char:EOLhyphen"/>ſence
+<pb n="3" facs="tcp:47016:3"/>at this time of ſo much diſtraction in this King<g ref="char:EOLhyphen"/>dome, whereby they may hope we ſhall be diſabled to ſupply the warre there, eſpecially there appearing leſſe neceſſitie of your Majeſties Journey at this time, by reaſon of the manifold ſucceſſes which God hath given againſt them.</p>
+            <p n="3">3. It will much hinder and impaire the meanes, whereby this warre is to bee ſupported, and will encreaſe the charge of it, and in both theſe reſpects, make it more inſupportable to your Subjects: and this we can confidently affirme, becauſe many of the Adventurers who have already ſubſcri<g ref="char:EOLhyphen"/>bed, doe upon the knowledge of your Majeſties In<g ref="char:EOLhyphen"/>tentions, declare their reſolutions, not to pay in their money, and others very willing to have ſubſcribed, doe now profeſſe the contrary.</p>
+            <p n="4">4. Your Majeſties abſence muſt neceſſarily very much interrupt the proceedings of Parliament, and deprive your Subjects of the benefit of thoſe further Acts of Grace, and Juſtice which we ſhall humbly expect from your Majeſty for the eſtabliſhing of per<g ref="char:EOLhyphen"/>fect union, and mutuall confidence betwixt your Ma<g ref="char:EOLhyphen"/>jeſty and your People, and procuring and confirming the proſperity and happineſſe of both.</p>
+            <p n="5">5. It will exceedingly encreaſe the jealouſies and feares of your people, and render the doubts of your Subjects more probable, of ſome force intended by ſome evill counſells neere your Majeſty, in oppoſiti<g ref="char:EOLhyphen"/>on to the Parliament, and favour of the malignant party of the Kingdome.</p>
+            <p n="6">6. It will bereave your Parliament of that advan<g ref="char:EOLhyphen"/>tage, whereby they were induced to undertake this
+<pb n="4" facs="tcp:47016:4"/>warre upon your Majeſties promiſe, that it ſhould be managed by their advice, which cannot be done, if your Majeſtie contrary to their Counſell ſhall under<g ref="char:EOLhyphen"/>take to order and governe it in your owne Perſon.</p>
+            <p>Upon which and divers other reaſons wee have re<g ref="char:EOLhyphen"/>ſolved by the full and concurring agreement of both Houſes, that we cannot with the dutie which belongs to us, conſent to any Levyes, or raiſing of Souldiours to be made by your Majeſty, for this your intended expedition into <hi>Ireland,</hi> or to the payment of any Army or Souldiers there, but ſuch as ſhall bee im<g ref="char:EOLhyphen"/>ployed and governed according to our advice and di<g ref="char:EOLhyphen"/>rection, and that if ſuch Levyes ſhall be made by any Commiſſion of your Majeſty, not agreed to by both Houſes of Parliament, wee ſhall be forced to inter<g ref="char:EOLhyphen"/>pret the ſame to be rayſed to the terrour of your peo<g ref="char:EOLhyphen"/>ple, and diſturbance of the publicke peace, and hold our ſelves bound by the Lawes of the Kingdome, to apply the authority of Parliament to ſuppreſſe the ſame.</p>
+            <p>And we doe further moſt humbly declare, that if your Majeſty ſhall by ill counſell, be perſwaded to goe contrary to this advice of your Parliament (which we hope your Majeſty will not, We doe not in that caſe hold our ſelves bound to ſubmit to any Commiſſioners, which your Majeſty ſhall chooſe, but doe reſolve to preſerve and governe the King<g ref="char:EOLhyphen"/>dome by the counſell and advice of Parliament for your Majeſtie and your Poſteritie according to Alle<g ref="char:EOLhyphen"/>giance, and the Law of the Land.</p>
+            <p>Wherefore we moſt humbly pray, and adviſe your Majeſty, to deſiſt from this your intended paſſage
+<pb n="5" facs="tcp:47016:4"/>into <hi>Ireland,</hi> and from all preparation of men and Armes tending thereunto, and to leave the managing of that warre to your Parliament, according to your Majeſties promiſe made unto us and your Royall Commiſſion granted under your great Seale of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by adviſe of both Houſes, in proſecution where<g ref="char:EOLhyphen"/>of, by Gods bleſſing we have made a proſperous en<g ref="char:EOLhyphen"/>trance by many defeats of the Rebels, whereby they are much weakned and diſ-heartened, and have no probable meanes of ſubſiſtence, if our proceedings ſhall not be interrupted by this interpoſition of your Majeſties J urney, but that we may hope upon good grounds, that within a ſhort time, without hazard of your Majeſties perſon, and ſo much dangerous con<g ref="char:EOLhyphen"/>fuſion to your Kingdomes, which muſt needs enſue if you ſhould proceed in this reſolution: We ſhall be enabled fully to vindicate your Majeſties right and authority in that Kingdome, and puniſh thoſe horri<g ref="char:EOLhyphen"/>ble and outragious cruelties which have bin commit<g ref="char:EOLhyphen"/>ted in the murthering, and ſpoyling ſo many of your Subjects, and bring that Realme to ſuch a Con<g ref="char:EOLhyphen"/>dition as may be much for the advantage of your Ma<g ref="char:EOLhyphen"/>jeſty, and this Crown, the honour of your government and contentment of your people, for the better, and more ſpeedy effecting whereof we doe againe renew our humble deſires of your returne to your Parlia<g ref="char:EOLhyphen"/>ment. And that you will pleaſe to reject all Coun<g ref="char:EOLhyphen"/>ſels, and apprehenſions which may any way derogate from that faithfulneſſe, and Allegiance which in truth and ſinceritie we have alwayes borne, and pro<g ref="char:EOLhyphen"/>feſſed to your Majeſty, and ſhall ever make good to the uttermoſt with our lives and fortunes.</p>
+         </div>
+         <div type="order">
+            <pb n="6" facs="tcp:47016:5"/>
+            <head>
+               <hi>Die veneris</hi> 22. <hi>of April</hi> 1642.</head>
+            <p>It is this day Ordered by the Commons Houſe of Parliament, that this Petition ſhall bee forth-with publiſhed in Print.</p>
+            <closer>
+               <signed>H. Elſyng. Cler. Parl. D. Com.</signed>
+            </closer>
+            <pb facs="tcp:47016:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
